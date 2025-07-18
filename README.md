@@ -12,7 +12,7 @@ This project replicates the core structure and UI of Myntra using **ReactJS**. I
 - JavaScript (ES6+)
 - CSS3
 - React Router (if used)
-- [Optional] Context API / Redux (if used)
+-  Context API / Redux 
 
 ## 📌 Features
 
